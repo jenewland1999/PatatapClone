@@ -1,3 +1,3 @@
-# PatatapClone
+# Patatap Recreation
 
-Utilising JavaScript Libraries; Attempting to Re-Create www.patatap.com's Underlying Features.
+Utilising JavaScript Libraries; Re-Creation of www.patatap.com's Underlying Features.
