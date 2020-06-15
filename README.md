@@ -1,3 +1,3 @@
 # Patatap Recreation
 
-Utilising JavaScript libraries to recreate a simplified version of [Patatap](https://patatap.com/).
+Using JavaScript libraries to recreate the core functionality of [Patatap](https://patatap.com/).
